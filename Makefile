@@ -621,6 +621,8 @@ ifdef CONFIG_DYNAMIC_FTRACE
 endif
 endif
 
+TARGET_PRODUCT = victor_open_com
+
 #LGE_UPDATE_S woojin.jeong@lge.com 20120227 For (E730)
 ifeq ($(TARGET_PRODUCT),victor_open_com)
 
